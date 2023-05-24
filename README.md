@@ -5,6 +5,7 @@ Pasos para alojar un sitio web de html5up
 mkdir docs
 cd docs
 #copiar archivos aca
+#ver URL: https://juan-010.github.io/charla-24/
 ```
 
 Pasos para crear pagina con jekyll
